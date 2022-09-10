@@ -1,0 +1,133 @@
+*{
+    margin:5px;
+    padding:5px;
+    box-sizing: border-box;
+}
+.intro{
+    /* background: linear-gradient(rgb(61, 61, 215),lightblue); */
+    background: linear-gradient(purple, rgba(224, 193, 230, 0.667));
+    background-repeat: no-repeat;
+    height: 50rem;
+    /* width:100rem; */
+    background-size: cover;
+    text-align:center;
+    font-size:40px;
+    border-radius:1%;
+}
+.profile1{
+    
+    border-radius: 50%;
+    float: right;
+}
+.profile{
+    text-align: right;
+    float: right;
+}
+.about{
+/* background-color:lightblue; */
+background-color: rgba(224, 193, 230, 0.667);
+border-radius: 8%;
+height: 17rem;
+width: 40rem;
+text-align: left;
+font-size: medium;
+}
+.about1 {
+/* background-color: lightblue; */
+    background-color: rgba(224, 193, 230, 0.667);
+    border-radius: 8%;
+    height: 43rem;
+    width: 40rem;
+    /* text-align: center; */
+    font-size: medium;
+}
+.about2 {
+/* background-color: lightblue; */
+    background-color: rgba(224, 193, 230, 0.667);
+    border-radius: 8%;
+    height: 8rem;
+    width: 40rem;
+    /* text-align: center; */
+    font-size: medium;
+}
+.about3 {
+/* background-color: lightblue; */
+    background-color: rgba(224, 193, 230, 0.667);
+    border-radius: 8%;
+    height: 8rem;
+    width: 40rem;
+    /* text-align: center; */
+    font-size: medium;
+}
+/* .about4 {
+background-color: lightblue;
+    background-color: rgba(224, 193, 230, 0.667);
+    border-radius: 8%;
+    height: 10rem;
+    width: 40rem;
+    text-align: center;
+    font-size: medium;
+} */
+.heading
+{
+    /* background: rgba(129, 80, 190, 0.5);
+    border-radius: 50%;
+    width:18rem; */
+    /* text-align: center; */
+    font-family: 'Barlow Condensed',
+        sans-serif;
+    color: rgba(5, 24, 97, 0.667);
+}
+.back{
+    
+    background-size: cover;
+    background-color: rgba(255, 255, 255 0.5);
+}
+.side{
+    float:right;
+}
+.reference{
+    font-size: 10px;
+}
+.contact{
+    background-color: rgba(224, 193, 230, 0.667);
+        border-radius: 8%;
+        height: 8rem;
+        width: 40rem;
+        /* text-align: center; */
+        font-size: medium;
+}
+.fa{
+    text-align: center;
+}
+.add{
+    margin:0;
+    padding: 0;
+    float: right;
+    position: fixed;
+    /* background:rgb(77, 75, 75); */
+    background: rgb(78, 71, 71);
+    width:96%;
+    font-size: 25px;
+    font-family: white;
+    border-radius: 2%;
+}
+a{
+    float: right;
+    color:white;
+}
+.name{
+    float: left;
+    color:white;
+}
+.diff{
+    background: rgb(78, 71, 71);
+    text-align: center;
+}
+.head{
+    color:white;
+}
+.about4
+{
+    color:white;
+}
